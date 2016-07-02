@@ -7,7 +7,6 @@
 //  
 
 #import "MJViewController.h"
-
 #import "MJPicture.h"
 
 @interface MJViewController ()<UITableViewDelegate,UITableViewDataSource>

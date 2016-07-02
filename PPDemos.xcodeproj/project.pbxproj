@@ -122,7 +122,6 @@
 		C6AC8C1E1D124CF80008133E /* MJDIYBackFooter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJDIYBackFooter.m; sourceTree = "<group>"; };
 		C6AC8C1F1D124CF80008133E /* MJDIYHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJDIYHeader.h; sourceTree = "<group>"; };
 		C6AC8C201D124CF80008133E /* MJDIYHeader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJDIYHeader.m; sourceTree = "<group>"; };
-		C6AC8C271D1251560008133E /* MJRefresh完全解析与最详细使用指导.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MJRefresh完全解析与最详细使用指导.h"; sourceTree = "<group>"; };
 		C6AC8C281D1276F30008133E /* MJCustomRefreshViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJCustomRefreshViewController.h; sourceTree = "<group>"; };
 		C6AC8C291D1276F30008133E /* MJCustomRefreshViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJCustomRefreshViewController.m; sourceTree = "<group>"; };
 		C6C6D0A01D0F94BB00F82C39 /* PPDemos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PPDemos.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -568,7 +567,6 @@
 				C6C6D14A1D0F94DB00F82C39 /* UIScrollView+MJRefresh.m */,
 				C6C6D14B1D0F94DB00F82C39 /* UIView+MJExtension.h */,
 				C6C6D14C1D0F94DB00F82C39 /* UIView+MJExtension.m */,
-				C6AC8C271D1251560008133E /* MJRefresh完全解析与最详细使用指导.h */,
 			);
 			path = MJRefresh;
 			sourceTree = "<group>";

@@ -79,7 +79,7 @@
     header.lastUpdatedTimeLabel.textColor = [UIColor blueColor];
     
 }
-
+#pragma mark --- "动画图片"样式的非block方法
 -(void)animationRefresh
 {
     [self getNetworkData:YES];
